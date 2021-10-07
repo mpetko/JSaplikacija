@@ -6,4 +6,4 @@ Dio diplomskog rada.
 
 
 
-Uz palikaciju prolžena je i baza podataka koji je mogueće dodati na vlastiti server zajedno s aplikacjom.
+Uz aplikaciju priložena je i baza podataka koju je mogueće dodati na vlastiti server zajedno s aplikacijom.
